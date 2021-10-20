@@ -3,6 +3,17 @@
     "displayName": "sakura-dark-vscode-theme",
     "description": "sakura dark theme",
     "version": "0.0.1",
+    "publisher": "inatagan",
+    "repository": {
+        "type": "git",
+        "url": "https://github.com/inatagan/sakura-dark-vscode-theme"
+    },
+    "keywords": [
+        "theme",
+        "sakura",
+        "dark",
+        "ina"
+    ],
     "engines": {
         "vscode": "^1.61.0"
     },
