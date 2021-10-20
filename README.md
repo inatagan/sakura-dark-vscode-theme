@@ -1,13 +1,21 @@
 # Sakura Dark theme for VS Code
 This theme was made to match gtk3/XFCE sakura-dark theme
 
+[![version](https://img.shields.io/badge/vscode--marketplace-v0.0.1-brightgreen)](https://marketplace.visualstudio.com/items?itemName=inatagan.sakura-dark-vscode-theme)
+
+---
+## Installation
+Launch VS Code Quick Open (Ctrl+P), paste the following command, and press enter.
+
+`ext install inatagan.sakura-dark-vscode-theme`
+
+---
+## Preview
 Main accent color `#CF074C`
 
 Secondary accent color `#33ff00`
 
 Background color true black `#000`
-
-## Preview
 
 ### full-screen
 ![full-screen preview](screenshot/Screenshot_2021-10-20_10-57-27.png)
