@@ -2,10 +2,23 @@
 	"name": "sakura-dark",
 	"type": "dark",
 	"colors": {
-		"editor.background": "#263238",
+		"editor.background": "#000000",
 		"editor.foreground": "#eeffff",
-		"activityBarBadge.background": "#007acc",
-		"sideBarTitle.foreground": "#bbbbbb"
+		"activityBarBadge.background": "#33ff00",
+		"activityBarBadge.foreground": "#000",
+		"sideBarTitle.foreground": "#bbbbbb",
+		"activityBar.background": "#CF074C",
+		"activityBar.foreground": "#000",
+		"sideBar.background": "#000000",
+		"sideBar.border": "#111111",
+		"sideBarSectionHeader.background": "#df2566af",
+		"scrollbarSlider.background": "#df2566af",
+		"scrollbarSlider.hoverBackground": "#CF074C",
+		"scrollbarSlider.activeBackground": "#CF074C",
+		"progressBar.background": "#33ff00",
+		"statusBar.background": "#33ff00",
+		"statusBar.foreground": "#000",
+		"button.background": "#CF074C",
 	},
 	"tokenColors": [
 		{
